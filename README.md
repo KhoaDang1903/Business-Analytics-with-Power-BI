@@ -1,6 +1,3 @@
-# ```Business Analytics with Power BI```
-
----
 # Business Performance Analysis
 
 ## 1. Revenue, Profit, and Profit Margin
