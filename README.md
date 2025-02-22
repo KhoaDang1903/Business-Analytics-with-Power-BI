@@ -38,10 +38,6 @@ The **Key Influencers** feature identifies factors that significantly impact hig
 
 2. **SQL Server Credentials**
 
-- **Server:** `sql-st.datapot.edu.vn`  
-- **User:** `datapot_student`  
-- **Password:** `datapot@mspartner`
-
 ### Expand the Database "AdventureWorksDW2020"
 
 Select the following tables by clicking the checkbox next to each table name:
